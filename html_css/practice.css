@@ -1,0 +1,38 @@
+html{
+
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+
+
+
+h1 {
+
+    color:red;
+
+    font-size: 5em;
+
+    background-color: yellow;
+
+    border: 1px solid black;
+
+}
+
+
+
+
+p{
+
+    color: black;
+
+}
+
+ul{
+    font-size: 1.5 rem;
+}
+
+li,
+p{
+    line-height: 1.5;
+}
